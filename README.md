@@ -1,4 +1,4 @@
-# Heart Attack Analysis
+# Heart Attack Analysis :heart:
 
 ## Overview
 This repository explores factors related to heart attacks using a synthetic dataset. The analysis includes determining heart attack percentages, analyzing the impact of variables like gender and exercise, and interpreting EKG results.
