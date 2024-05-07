@@ -25,10 +25,6 @@ Results are presented in various PNG files showing detailed visualizations
 
 ## How to Run
 Execute the script via the command line:
-```bash
-python main_mod_analysis.py
-
-
 
 
 ```python
