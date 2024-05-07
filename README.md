@@ -4,9 +4,9 @@
 This repository explores factors related to heart attacks using a synthetic dataset. The analysis includes determining heart attack percentages, analyzing the impact of variables like gender and exercise, and interpreting EKG results.
 
 ## Requirements
-Python 3.x
-Pandas
-Matplotlib
+- Python 3.x
+- Pandas
+- Matplotlib
 
 ## Files Description
 - `heart.csv`: The dataset for analysis.
