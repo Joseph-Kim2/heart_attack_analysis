@@ -1,10 +1,34 @@
 # Heart Attack Analysis
-Using a practice dataset with fake patient medical data, I aimed to perform data analysis that would give us a better look at the meaning of the data. 
-These are the factors related to heart attacks that are considered in this data:
-1. Heart Attack Percentage is calculated based on all data to see if the data is skewed.
-2. Gender Percent is used to distinguish between the heart attack rates in men and women.
-3. EKG is considered, as it detects heart problems that can forecast chance of future heart attacks.
-4. Exercise is considered to see if likelihood of heart attack increases when physically active.
+
+## Overview
+This repository explores factors related to heart attacks using a synthetic dataset. The analysis includes determining heart attack percentages, analyzing the impact of variables like gender and exercise, and interpreting EKG results.
+
+## Requirements
+Python 3.x
+Pandas
+Matplotlib
+
+## Files Description
+- `heart.csv`: The dataset for analysis.
+- `main_mod_analysis.py`: Python script for performing the analysis.
+- `utilities_analysis.py`: Contains helper functions.
+
+## Detailed Analysis
+The project delves into several key aspects:
+1. **Heart Attack Percentages**: Calculates and visualizes data skewness.
+2. **Gender-Based Analysis**: Evaluates heart attack rates across genders.
+3. **EKG Results**: Examines the predictive power of EKG results.
+4. **Effect of Exercise**: Correlates physical activity levels with heart attack risk.
+
+##Output
+Results are presented in various PNG files showing detailed visualizations
+
+## How to Run
+Execute the script via the command line:
+```bash
+python main_mod_analysis.py
+
+
 
 
 ```python
